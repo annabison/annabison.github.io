@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Hey there!
 
-You can use the [editor on GitHub](https://github.com/annabison/annabison.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Anna Bison, currently a BSc Physics student at the [DFA](https://www.dfa.unipd.it/). 
+ 
+I'm looking for my research interests. Until now I have deeply appreciated pure mathematical courses. At the moment I am studying QM and `C++`.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Non-scientific interests include (mainly) classical music (I have obsessively [practised piano](https://www.youtube.com/watch?v=EzEqQUG-qkw) for three years during high school), swimming, table tennis.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What's this page?
+
+It _will_ be my personal website because...
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+I am practising `GitHub Pages` but I have no **time** to learn how to finish this site now. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details visit [my current main website](https://nnbison.wordpress.com/).
 
-### Jekyll Themes
+![Mug_and_Torus_morph](https://upload.wikimedia.org/wikipedia/commons/2/26/Mug_and_Torus_morph.gif)  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/annabison/annabison.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_Homeomorphism between mug and donut._
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
