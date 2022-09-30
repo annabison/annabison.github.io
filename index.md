@@ -1,8 +1,8 @@
 ## Hey there!
 
-I'm Anna Bison, currently a BSc Physics student at the [DFA](https://www.dfa.unipd.it/). 
+I'm Anna Bison, currently a graduate student at the [University of Padova](https://www.unipd.it/). 
  
-I'm looking for my research interests. Until now I have deeply appreciated pure mathematical courses. At the moment I am studying QM and `C++`.
+I like category theory and coding in C++. 
 
 Non-scientific interests include (mainly) classical music (I have obsessively [practised piano](https://www.youtube.com/watch?v=EzEqQUG-qkw) for three years during high school), swimming, table tennis.
 
