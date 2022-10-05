@@ -1,6 +1,6 @@
 ## Hey there!
 
-I'm Anna Bison, currently a graduate student at the [University of Padova](https://www.unipd.it/). 
+I'm Anna Bison, currently a MSc student at the [University of Padova](https://www.unipd.it/). 
  
 I like category theory and coding in C++. 
 
