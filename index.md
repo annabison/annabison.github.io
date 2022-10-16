@@ -1,7 +1,6 @@
 ## Hey there!
-
-I'm Anna Bison, currently a MSc student at the [University of Padova](https://www.unipd.it/). 
  
+I’m Anna Bison, a MSc student in Computer Science at the [DM](https://www.math.unipd.it). Previously, I obtained my BSc in Physics at the [DFA](https://www.dfa.unipd.it).
 I like category theory and coding in C++. 
 
 Non-scientific interests include (mainly) classical music (I have obsessively [practised piano](https://www.youtube.com/watch?v=EzEqQUG-qkw) for three years during high school), swimming, table tennis.
