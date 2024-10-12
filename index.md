@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Hey there!
  
 I’m Anna Bison, a MSc student in Computer Science at the [DM](https://www.math.unipd.it). Previously, I obtained my BSc in Physics at the [DFA](https://www.dfa.unipd.it).
