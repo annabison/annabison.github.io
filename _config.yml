@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: Anna Bison
 description: MSc student at UniPD
+social_links:
+  linkedin: https://www.linkedin.com/in/annabison
+  github: https://github.com/annabison
+  instagram: https://instagram.com/annabison_
+  cv: https://username.github.io/AnnaBisonCV.pdf
