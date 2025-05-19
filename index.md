@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I’m Anna Bison, a MSc student in Computer Science at the [DM](https://www.math.unipd.it). Previously, I obtained my BSc in Physics at the [DFA](https://www.dfa.unipd.it).
+I’m Anna Bison, MSc in Computer Science from [DM](https://www.math.unipd.it). Previously, I obtained my BSc in Physics at [DFA](https://www.dfa.unipd.it).
 I enjoy using mathematics to analyze anything.
 
 Non-scientific interests include (currently) gym and running.
