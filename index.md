@@ -10,8 +10,8 @@ My non-scientific interests include gym and running. During high school, I also 
 
 **Publications**
 
-*   **A Spectral Interpretation of Redundancy in a Graph Reservoir**  
-    *Artificial Neural Networks and Machine Learning – ICANN 2025*, pp 201–212.
+*   [**A Spectral Interpretation of Redundancy in a Graph Reservoir**](https://doi.org/10.1007/978-3-032-04552-2_19)  
+    Bison, A., Sperduti, A. (2026). In: Senn, W., et al. *Artificial Neural Networks and Machine Learning – ICANN 2025*. LNCS, vol 16072. Springer.
 
 ---
 
