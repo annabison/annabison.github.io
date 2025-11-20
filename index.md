@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I’m Anna Bison, a PhD student in Computer Science at the [Department of Mathematics](https://www.math.unipd.it), University of Padova, working on Graph Neural Networks under the supervision of Pr[...]  
+I’m Anna Bison, a PhD student in Computer Science at the [Department of Mathematics](https://www.math.unipd.it), University of Padova, working on Graph Neural Networks under the supervision of Prof. Alessandro Sperduti.  
 
 I hold a MSc in Computer Science and a BSc in Physics, both from the University of Padua. I enjoy using mathematics to analyze anything.
 
