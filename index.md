@@ -17,9 +17,9 @@ My non-scientific interests include gym and running. During high school, I also 
 
 
 ---
-<a href="https://scholar.google.com/citations?hl=it&user=0H4TfEcAAAAJ" target="_blank" style="text-decoration:none; background-color:transparent; border:1px solid #555; color:#555; padding: 3px 8px; border-radius: 5px; font-size: 12px; margin-right: 5px;">Google Scholar</a>
-<a href="https://www.linkedin.com/in/annabison" target="_blank" style="text-decoration:none; background-color:transparent; border:1px solid #555; color:#555; padding: 3px 8px; border-radius: 5px; font-size: 12px; margin-right: 5px;">LinkedIn</a>
 <a href="mailto:anna.bison@pm.me" target="_blank" style="text-decoration:none; background-color:transparent; border:1px solid #555; color:#555; padding: 3px 8px; border-radius: 5px; font-size: 12px; margin-right: 5px;">@</a>
+<a href="https://www.linkedin.com/in/annabison" target="_blank" style="text-decoration:none; background-color:transparent; border:1px solid #555; color:#555; padding: 3px 8px; border-radius: 5px; font-size: 12px; margin-right: 5px;">LinkedIn</a>
+<a href="https://scholar.google.com/citations?hl=it&user=0H4TfEcAAAAJ" target="_blank" style="text-decoration:none; background-color:transparent; border:1px solid #555; color:#555; padding: 3px 8px; border-radius: 5px; font-size: 12px; margin-right: 5px;">Google Scholar</a>
 
 <br>
 <br>
