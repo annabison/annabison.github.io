@@ -17,11 +17,11 @@ My non-scientific interests include gym and running. During high school, I also 
 
 
 ---
-[Google Scholar](https://scholar.google.com/citations?hl=it&user=0H4TfEcAAAAJ)
+<a href="https://scholar.google.com/citations?hl=it&user=0H4TfEcAAAAJ" target="_blank" style="text-decoration:none; background-color:transparent; border:1px solid #555; color:#555; padding: 3px 8px; border-radius: 5px; font-size: 12px; margin-right: 5px;">Google Scholar</a>
+<a href="https://www.linkedin.com/in/annabison" target="_blank" style="text-decoration:none; background-color:transparent; border:1px solid #555; color:#555; padding: 3px 8px; border-radius: 5px; font-size: 12px; margin-right: 5px;">LinkedIn</a>
+<a href="mailto:anna.bison@pm.me" target="_blank" style="text-decoration:none; background-color:transparent; border:1px solid #555; color:#555; padding: 3px 8px; border-radius: 5px; font-size: 12px; margin-right: 5px;">@</a>
 
-<a href="https://www.linkedin.com/in/annabison" target="_blank" style="margin-right: 10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"></a>
-<a href="mailto:anna.bison@pm.me" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" alt="Email" width="30" height="30"></a>
-
+<br>
 <br>
 
 ![Mug_and_Torus_morph](https://upload.wikimedia.org/wikipedia/commons/2/26/Mug_and_Torus_morph.gif)  
